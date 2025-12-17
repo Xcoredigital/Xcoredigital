@@ -29,31 +29,51 @@
 
 ---
 
-## 🛠️ **Stack Tecnológico**
+## 🛠️ **STACK TECNOLÓGICO DE ALTO RENDIMIENTO**
 
-### **Frontend**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<div align="center">
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![API REST](https://img.shields.io/badge/API_REST-4ECDC4?style=flat-square)
+### 🎨 **DESARROLLO FRONTEND & EXPERIENCIA DE USUARIO**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/📱_Diseño_Responsive-Expert-FF6B6B?style=for-the-badge)
 
-### **Bases de Datos**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+### ⚙️ **DESARROLLO BACKEND & ARQUITECTURA**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-Expert-4ECDC4?style=for-the-badge)
+![Microservicios](https://img.shields.io/badge/🏗️_Arquitectura_Web-Advanced-9B59B6?style=for-the-badge)
 
-### **Herramientas**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### 🗄️ **BASES DE DATOS & ALMACENAMIENTO**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🎯 **MARKETING DIGITAL & CONVERSIÓN**
+![Estrategia Digital](https://img.shields.io/badge/🎯_Estrategia_Digital-Expert-FF9A00?style=for-the-badge)
+![SEO](https://img.shields.io/badge/🔍_SEO_Avanzado-Advanced-3498DB?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/📊_Analytics_y_Métricas-Expert-2ECC71?style=for-the-badge)
+![Conversión](https://img.shields.io/badge/💰_Optimización_Conversión-Expert-E74C3C?style=for-the-badge)
+
+### 🎬 **PRODUCCIÓN DE CONTENIDO & DISEÑO**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Suite](https://img.shields.io/badge/Adobe_Creative_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Video Editing](https://img.shields.io/badge/🎬_Edición_de_Video-Advanced-9B59B6?style=for-the-badge)
+![Diseño Gráfico](https://img.shields.io/badge/🎨_Diseño_Gráfico-Advanced-F39C12?style=for-the-badge)
+
+### 🔧 **HERRAMIENTAS PROFESIONALES & DEVOPS**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
