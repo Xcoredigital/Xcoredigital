@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/Portfolio-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ferminn67)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eliseo-fermin)
 
-![Banner Profesional](AQUÍ_PEGA_LA_URL_QUE_COPIASTE)
+![Banner Profesional](https://github.com/Xcoredigital/Xcoredigital/blob/main/Red%20and%20White%20Clean%20Gardener%20YouTube%20Banner.png?raw=true)
 
 </div>
 
