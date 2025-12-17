@@ -111,29 +111,6 @@
 
 </div>
 
----
-
-## 🔄 **METODOLOGÍA DE TRABAJO PROBADA**
-
-<div align="center">
-
-### 🏗️ **PROCESO DE 6 FASES PARA ÉXITO GARANTIZADO**
-
-</div>
-
-### 📋 **DETALLE DE CADA FASE**
-
-| Fase | Duración | Entregables | Métricas de Éxito |
-|------|----------|-------------|-------------------|
-| **1. Análisis Profundo** | 3-5 días | Documento de diagnóstico, Análisis de competencia, User personas | Identificación de al menos 5 oportunidades de mejora |
-| **2. Estrategia Personalizada** | 2-3 días | Roadmap digital, Plan de implementación, KPIs definidos | Estrategia alineada con objetivos de negocio específicos |
-| **3. Diseño y Planificación** | 5-7 días | Wireframes, Prototipos interactivos, Plan técnico detallado | Aprobación del diseño por parte del cliente |
-| **4. Desarrollo Iterativo** | Variable según proyecto | Sprint reviews, Demos semanales, Código en repositorio Git | Cumplimiento de hitos semanales en 95%+ de los casos |
-| **5. Implementación Controlada** | 2-4 días | Sitio/producto funcional, Documentación, Capacitación | Lanzamiento exitoso sin errores críticos |
-| **6. Optimización Continua** | Perpetua | Reportes mensuales, Análisis de datos, Plan de optimización | Mejora constante de métricas clave (mínimo 10% trimestral) |
-
----
-
 ## 🏆 **CASOS DE ÉXITO Y PROYECTOS DESTACADOS**
 
 <div align="center">
@@ -205,77 +182,11 @@
 
 ---
 
-## 📊 **MÉTRICAS DE DESEMPEÑO Y GARANTÍAS**
 
-<div align="center">
 
-### 🎯 **COMPROMISOS DE CALIDAD**
 
-| Área | Meta | Métrica | Garantía |
-|------|------|---------|----------|
-| **Tiempo de Entrega** | 95%+ de hitos cumplidos | Entregas a tiempo vs. planificado | Revisión gratuita si hay retrasos por mi parte |
-| **Calidad de Código** | <5% de bugs críticos | Code review, Testing coverage | 30 días de soporte post-implementación |
-| **Satisfacción del Cliente** | 4.8/5 promedio | NPS, Encuestas post-proyecto | Ajustes gratuitos si no cumple expectativas |
-| **Performance Web** | >90 en Lighthouse | Core Web Vitals | Optimización gratuita si no se alcanzan metas |
-| **Comunicación** | Respuesta en <24h | Tiempo de respuesta a consultas | Comunicación proactiva semanal |
 
-</div>
 
----
-
-## 💼 **PAQUETES DE SERVICIOS PROFESIONALES**
-
-<div align="center">
-
-### 🥉 **PAQUETE BRONCE - PRESENCIA DIGITAL BÁSICA**
-**Inversión: Desde $1,500**  
-✅ Sitio web corporativo responsive (5 páginas)  
-✅ Diseño UI/UX personalizado  
-✅ Integración con redes sociales  
-✅ Formulario de contacto funcional  
-✅ SEO básico implementado  
-✅ 1 mes de soporte post-lanzamiento  
-
-### 🥈 **PAQUETE PLATA - CRECIMIENTO DIGITAL**
-**Inversión: Desde $3,500**  
-✅ Todo lo del paquete Bronce +  
-✅ Sistema de gestión de contenido (CMS)  
-✅ Blog integrado con estrategia de contenido  
-✅ Analytics y reportes mensuales  
-✅ Estrategia de marketing digital inicial  
-✅ Email marketing básico  
-✅ 3 meses de soporte y optimización  
-
-### 🥇 **PAQUETE ORO - TRANSFORMACIÓN DIGITAL COMPLETA**
-**Inversión: Personalizada**  
-✅ Todo lo del paquete Plata +  
-✅ Plataforma web avanzada con funcionalidades custom  
-✅ Sistema de administración completo  
-✅ Integración con APIs de terceros  
-✅ Dashboard de métricas ejecutivas  
-✅ Estrategia digital 360° anual  
-✅ Capacitación a tu equipo  
-✅ Soporte prioritario y optimización continua  
-
-</div>
-
-> 💡 **Nota:** Todos los paquetes incluyen consultoría estratégica inicial gratuita y propuesta personalizada.
-
----
-
-## 📞 **PROCESO DE CONTRATACIÓN SIMPLIFICADO**
-
-<div align="center">
-
-</div>
-
-### ⏱️ **Línea de tiempo típica:**
-1. **Consulta inicial gratuita** (30-45 min): Entendemos tus necesidades
-2. **Propuesta detallada** (1-2 días hábiles): Plan personalizado con presupuesto
-3. **Kick-off del proyecto** (24h después de aceptación): Comenzamos a trabajar
-4. **Primera entrega** (7-14 días): Verás resultados tangibles desde el inicio
-
----
 
 ## 📍 **INFORMACIÓN DE CONTACTO Y DISPONIBILIDAD**
 
