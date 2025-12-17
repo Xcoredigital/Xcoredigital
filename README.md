@@ -1,7 +1,7 @@
 <div align="center">
   
 
-## **Nicolas Fermin - Desarrollador Full Stack** | **Especialista en Soluciones Digitales**
+## **👨‍💻Nicolas Fermin - Desarrollador Full Stack** | **Especialista en Soluciones Digitales**
 
 [![Email](https://img.shields.io/badge/Email-ferminn67@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ferminn67@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-8495781614-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/18495781614)
